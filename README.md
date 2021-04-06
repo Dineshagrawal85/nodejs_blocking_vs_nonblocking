@@ -1,4 +1,4 @@
-# nodejs_blocking_vs_nonblocking
+# Nodejs blocking vs nonblocking
 Express based app to explain impact of blocking vs non blocking code on API response
 
 Step 1
